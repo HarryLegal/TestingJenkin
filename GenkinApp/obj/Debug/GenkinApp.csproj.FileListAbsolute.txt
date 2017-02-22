@@ -1,0 +1,5 @@
+E:\Harry\Temp\WebAppForGitJenkin\GenkinApp\GenkinApp\bin\GenkinApp.dll
+E:\Harry\Temp\WebAppForGitJenkin\GenkinApp\GenkinApp\bin\GenkinApp.pdb
+E:\Harry\Temp\WebAppForGitJenkin\GenkinApp\GenkinApp\obj\Debug\ResolveAssemblyReference.cache
+E:\Harry\Temp\WebAppForGitJenkin\GenkinApp\GenkinApp\obj\Debug\GenkinApp.dll
+E:\Harry\Temp\WebAppForGitJenkin\GenkinApp\GenkinApp\obj\Debug\GenkinApp.pdb
